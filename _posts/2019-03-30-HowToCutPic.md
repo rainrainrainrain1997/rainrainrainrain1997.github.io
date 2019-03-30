@@ -1,3 +1,16 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      如何使用Mac自带的预览抠图               # 标题 
+subtitle:   不用PS，用预览也能抠图！ #副标题
+date:       2019-03-30              # 时间
+author:     Rain                      # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+- 技巧
+---
+
+
 给大家介绍下如何用Mac自带的**预览**抠图
 
 比方说我要截谷歌恐龙小游戏上面的恐龙，这里就以这个来举例说明
